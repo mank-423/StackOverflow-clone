@@ -1,4 +1,9 @@
 import React from 'react'
+import '../../App.css'
+import HomeMainBar from '../../components/HomeMainBar/HomeMainBar'
+import LeftSideBar from '../../components/LeftSideBar/LeftSideBar'
+import RightSideBar from '../../components/RightSideBar/RightSideBar'
+
 
 const Home = () => {
   return (
